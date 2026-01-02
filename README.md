@@ -1,0 +1,1 @@
+This repository contains Java practice tasks completed from [W3Resource](https://www.w3resource.com/java-exercises/basic/index.php) to strengthen my coding skills and improve my understanding of Java fundamentals.
